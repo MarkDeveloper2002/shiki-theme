@@ -1,0 +1,171 @@
+/* Обито Учиха */
+[class *= 'b-catalog_entry'] > a[href *= 'characters/2910-'] img {
+  opacity: 0;
+}
+/* Смена обложки – Обито Учиха (персонаж) */
+.b-catalog_entry a[href *= 'characters/2910-'] .image-cutter,
+.b-catalog_entry-tooltip > a[href *= 'characters/2910-'] {
+  background-image: url(https://static.zerochan.net/Tobi.full.1714953.jpg);
+}
+/* Юно Гасай */
+[class *= 'b-catalog_entry'] > a[href *= 'characters/4963-'] img {
+  opacity: 0;
+}
+/* Смена обложки – Юно Гасай (персонаж) */
+.b-catalog_entry a[href *= 'characters/4963-'] .image-cutter,
+.b-catalog_entry-tooltip > a[href *= 'characters/4963-'] {
+  background-image: url(https://moe.shikimori.one/system/user_images/original/469539/1357037.jpg);
+}
+/* Нацуки Субару */
+[class *= 'b-catalog_entry'] > a[href *= 'characters/118735-'] img {
+  opacity: 0;
+}
+/* Смена обложки – Нацуки Субару (персонаж) */
+.b-catalog_entry a[href *= 'characters/118735-'] .image-cutter,
+.b-catalog_entry-tooltip > a[href *= 'characters/118735-'] {
+  background-image: url(https://static.zerochan.net/Natsuki.Subaru.full.2565232.jpg);
+}
+/* Рем */
+[class *= 'b-catalog_entry'] > a[href *= 'characters/118763-'] img {
+  opacity: 0;
+}
+/* Смена обложки – Рем (персонаж) */
+.b-catalog_entry a[href *= 'characters/118763-'] .image-cutter,
+.b-catalog_entry-tooltip > a[href *= 'characters/118763-'] {
+  background-image: url(https://moe.shikimori.one/system/user_images/original/469539/1356442.jpg);
+}
+/* Сакура Мато */
+[class *= 'b-catalog_entry'] > a[href *= 'characters/500-'] img {
+  opacity: 0;
+}
+/* Смена обложки – Сакура Мато (персонаж) */
+.b-catalog_entry a[href *= 'characters/500-'] .image-cutter,
+.b-catalog_entry-tooltip > a[href *= 'characters/500-'] {
+  background-image: url(https://static.zerochan.net/Matou.Sakura.full.2475942.jpg);
+}
+/* Юкитеру Амано */
+[class *= 'b-catalog_entry'] > a[href *= 'characters/4962-'] img {
+  opacity: 0;
+}
+/* Смена обложки – Юкитеру Амано (персонаж) */
+.b-catalog_entry a[href *= 'characters/4962-'] .image-cutter,
+.b-catalog_entry-tooltip > a[href *= 'characters/4962-'] {
+  background-image: url(https://dere.shikimori.one/system/user_images/original/469539/1356454.jpg);
+}
+/* Аянокоджи Киётака */
+[class *= 'b-catalog_entry'] > a[href *= 'characters/128909-'] img {
+  opacity: 0;
+}
+/* Смена обложки – Аянокоджи Киётака (персонаж) */
+.b-catalog_entry a[href *= 'characters/128909-'] .image-cutter,
+.b-catalog_entry-tooltip > a[href *= 'characters/128909-'] {
+  background-image: url(https://desu.shikimori.one/system/user_images/original/206983/1135183.jpg);
+}
+/* Айзек Фостер */
+[class *= 'b-catalog_entry'] > a[href *= 'characters/138441-'] img {
+  opacity: 0;
+}
+/* Смена обложки – Айзек Фостер (персонаж) */
+.b-catalog_entry a[href *= 'characters/138441-'] .image-cutter,
+.b-catalog_entry-tooltip > a[href *= 'characters/138441-'] {
+  background-image: url(https://pbs.twimg.com/media/EXEXmC_X0AIxdw0.jpg);
+}
+/* Хэй */
+[class *= 'b-catalog_entry'] > a[href *= 'characters/2160-'] img {
+  opacity: 0;
+}
+/* Смена обложки – Хэй (персонаж) */
+.b-catalog_entry a[href *= 'characters/2160-'] .image-cutter,
+.b-catalog_entry-tooltip > a[href *= 'characters/2160-'] {
+  background-image: url(https://desu.shikimori.one/system/user_images/original/469539/1357073.jpg);
+}
+/* Люси */
+[class *= 'b-catalog_entry'] > a[href *= 'characters/738-'] img {
+  opacity: 0;
+}
+/* Смена обложки – Люси (персонаж) */
+.b-catalog_entry a[href *= 'characters/738-'] .image-cutter,
+.b-catalog_entry-tooltip > a[href *= 'characters/738-'] {
+  background-image: url(https://dere.shikimori.one/system/user_images/original/469539/1367999.jpg);
+}
+  /* Эсдет */
+[class *= 'b-catalog_entry'] > a[href *= 'characters/65239-'] img {
+  opacity: 0;
+}
+/* Смена обложки – Эсдет (персонаж) */
+.b-catalog_entry a[href *= 'characters/65239-'] .image-cutter,
+.b-catalog_entry-tooltip > a[href *= 'characters/65239-'] {
+  background-image: url(https://nyaa.shikimori.one/system/user_images/original/469539/1358880.jpg);
+}
+/* Айрисвиль фон Айнцберн */
+[class *= 'b-catalog_entry'] > a[href *= 'characters/15164-'] img {
+  opacity: 0;
+}
+/* Смена обложки – Айрисвиль фон Айнцберн (персонаж) */
+.b-catalog_entry a[href *= 'characters/15164-'] .image-cutter,
+.b-catalog_entry-tooltip > a[href *= 'characters/15164-'] {
+  background-image: url(https://desu.shikimori.one/system/user_images/original/469539/1358883.jpg);
+}
+/* Хитаги Сэндзёгахара  */
+[class *= 'b-catalog_entry'] > a[href *= 'characters/22037-'] img {
+  opacity: 0;
+}
+/* Смена обложки – Хитаги Сэндзёгахара  (персонаж) */
+.b-catalog_entry a[href *= 'characters/22037-'] .image-cutter,
+.b-catalog_entry-tooltip > a[href *= 'characters/22037-'] {
+  background-image: url(https://dere.shikimori.one/system/user_images/original/469539/1358894.jpg);
+}
+/* Котоноха Кацура  */
+[class *= 'b-catalog_entry'] > a[href *= 'characters/3359-'] img {
+  opacity: 0;
+}
+/* Смена обложки – Котоноха Кацура  (персонаж) */
+.b-catalog_entry a[href *= 'characters/3359-'] .image-cutter,
+.b-catalog_entry-tooltip > a[href *= 'characters/3359-'] {
+  background-image: url(https://desu.shikimori.one/system/user_images/original/469539/1358908.jpg);
+}
+/* Регулус Корнеас  */
+[class *= 'b-catalog_entry'] > a[href *= 'characters/144867-'] img {
+  opacity: 0;
+}
+/* Смена обложки – Регулус Корнеас  (персонаж) */
+.b-catalog_entry a[href *= 'characters/144867-'] .image-cutter,
+.b-catalog_entry-tooltip > a[href *= 'characters/144867-'] {
+  background-image: url(https://moe.shikimori.one/system/user_images/original/469539/1366017.jpg);
+}
+/* Лайт Ягами  */
+[class *= 'b-catalog_entry'] > a[href *= 'characters/80-'] img {
+  opacity: 0;
+}
+/* Смена обложки – Лайт Ягами  (персонаж) */
+.b-catalog_entry a[href *= 'characters/80-'] .image-cutter,
+.b-catalog_entry-tooltip > a[href *= 'characters/80-'] {
+  background-image: url(https://kawai.shikimori.one/system/user_images/original/469539/1358911.jpg);
+}
+/* Ару Акисэ  */
+[class *= 'b-catalog_entry'] > a[href *= 'characters/8306-'] img {
+  opacity: 0;
+}
+/* Смена обложки – Ару Акисэ  (персонаж) */
+.b-catalog_entry a[href *= 'characters/8306-'] .image-cutter,
+.b-catalog_entry-tooltip > a[href *= 'characters/8306-'] {
+  background-image: url(https://dere.shikimori.one/system/user_images/original/469539/1358944.jpg);
+    }
+    /* Саэко Бусудзима  */
+[class *= 'b-catalog_entry'] > a[href *= 'characters/6043-'] img {
+  opacity: 0;
+}
+/* Смена обложки – Саэко Бусудзима  (персонаж) */
+.b-catalog_entry a[href *= 'characters/6043-'] .image-cutter,
+.b-catalog_entry-tooltip > a[href *= 'characters/6043-'] {
+  background-image: url(https://dere.shikimori.one/system/user_images/original/469539/1362734.jpg);
+    }
+   /* Хачиман Хикигая */
+[class *= 'b-catalog_entry'] > a[href *= 'characters/67065-'] img {
+  opacity: 0;
+}
+/* Смена обложки – Хачиман Хикигая  (персонаж) */
+.b-catalog_entry a[href *= 'characters/67065-'] .image-cutter,
+.b-catalog_entry-tooltip > a[href *= 'characters/67065-'] {
+  background-image: url(https://dere.shikimori.one/system/user_images/original/469539/1362744.jpg);
+{    
